@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MolinaMedina</string>
+    <string name="ingresarTexto">Ingrese un texto</string>
+    <string name="guardar">Guardar</string>
+</resources>
